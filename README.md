@@ -1,5 +1,5 @@
 # locate
-Invoke-Locate.ps1 Locate for Windows using PowerShell and SQLite.
+Invoke-Locate.ps1 Port for GNU Locate within Windows. Uses SQLite.
 
 This script was made in the spirit of (Linux/Unix) GNU findutils' locate. 
 
@@ -8,3 +8,4 @@ While the name of this script is Invoke-Locate, it actually creates two persiste
 Locate searches are per-user, and the database is stored securely in your home directory. You can search system files and your own home directory, but will not be able to search for filenames in other users' directories. 
 
 Note: This is a work in progress (version 0.x), and I'm currently testing it in various environments. Please let me know if you have any issues. I fixed a few bugs over the weekend. Please download the newest version.
+
