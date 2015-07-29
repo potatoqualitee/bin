@@ -1,2 +1,4 @@
 # locate
-Moved to https://github.com/ctrlbold/scripts
+Repository for Invoke-Locate DLLs
+
+Actual locate script moved to https://github.com/ctrlbold/scripts
